@@ -1,6 +1,9 @@
 """
 Infix to postfix converter
-by Uriel de Oliveira Alves
+
+by Uriel de Oliveira Alves 
+   https://github.com/uriel-oa
+   02/10/17
 """
 
 class Stack:
